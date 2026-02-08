@@ -3,7 +3,7 @@
  │                                                                  │
  │   Building Voice AI Infra @ VAPI (YC W21)                        │
  │                                                                  │
- │   Previously Shipped → asynchretro.com                           │
+ │   Checkout → arvindrk.com                                        │
  │                                                                  │
  ╰──────────────────────────────────────────────────────────────────╯
 ```
