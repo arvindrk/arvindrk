@@ -3,9 +3,9 @@
  │                                                                  │
  │   Building Voice AI Infra @ VAPI (YC W21)                        │
  │                                                                  │
- │   Personal Portfolio  → arvindrk.com                             │
- │   Ex-Founder          → asynchretro.com                          │
- │   Side Quest          → ycagent.ai                               │
+ │   Portfolio   →  arvindrk.com                                    │
+ │   Ex-Founder  →  asynchretro.com                                 │
+ │   Side Quest  →  ycagent.ai                                      │
  │                                                                  │
  ╰──────────────────────────────────────────────────────────────────╯
 ```
