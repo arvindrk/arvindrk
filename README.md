@@ -1,14 +1,14 @@
-```
+<pre>
  ╭──────────────────────────────────────────────────────────────────╮
  │                                                                  │
  │   Building Voice AI Infra @ VAPI (YC W21)                        │
  │                                                                  │
- │   Portfolio   →  arvindrk.com                                    │
- │   Ex-Founder  →  asynchretro.com                                 │
- │   Side Quest  →  ycagent.ai                                      │
+ │   Portfolio   →  <a href="https://arvindrk.com">arvindrk.com</a>                                    │
+ │   Ex-Founder  →  <a href="https://asynchretro.com">asynchretro.com</a>                                 │
+ │   Side Quest  →  <a href="https://ycagent.ai">ycagent.ai</a>                                      │
  │                                                                  │
  ╰──────────────────────────────────────────────────────────────────╯
-```
+</pre>
 
 <br>
 
