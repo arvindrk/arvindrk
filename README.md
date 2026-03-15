@@ -13,11 +13,11 @@
 <br>
 
 <p align="center">
-  <a href="https://arvindrk.com"><img src="icons/portfolio.svg" alt="portfolio" width="28" height="28"></a>
+  <a href="https://arvindrk.com" target="_blank" rel="noopener noreferrer"><img src="icons/portfolio.svg" alt="portfolio" width="28" height="28"></a>
   &nbsp;&nbsp;
-  <a href="https://arvindrk.com/resume/"><img src="icons/resume.svg" alt="resume" width="28" height="28"></a>
+  <a href="https://arvindrk.com/resume/" target="_blank" rel="noopener noreferrer"><img src="icons/resume.svg" alt="resume" width="28" height="28"></a>
   &nbsp;&nbsp;
-  <a href="https://linkedin.com/in/rkarvind"><img src="icons/linkedin.svg" alt="linkedin" width="28" height="28"></a>
+  <a href="https://linkedin.com/in/rkarvind" target="_blank" rel="noopener noreferrer"><img src="icons/linkedin.svg" alt="linkedin" width="28" height="28"></a>
   &nbsp;&nbsp;
-  <a href="https://asynchretro.com"><img src="icons/retro.svg" alt="retro" width="28" height="28"></a>
+  <a href="https://asynchretro.com" target="_blank" rel="noopener noreferrer"><img src="icons/retro.svg" alt="retro" width="28" height="28"></a>
 </p>
