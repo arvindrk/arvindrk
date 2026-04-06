@@ -7,7 +7,7 @@
  │   Ex-Founder  →  <a href="https://asynchretro.com" target="_blank" rel="noopener noreferrer">asynchretro.com</a>                                 │
  │   Side Quest  →  <a href="https://ycagent.ai" target="_blank" rel="noopener noreferrer">ycagent.ai</a>                                      │
  │   Agent Skill →  <a href="https://skills.sh/arvindrk/extract-design-system/extract-design-system" target="_blank" rel="noopener noreferrer">13K+ weekly downloads</a>                           │
- │   npm package →  <a href="https://www.npmjs.com/package/extract-design-system" target="_blank" rel="noopener noreferrer">50K+ weekly downloads</a>                           │
+ │   npm package →  <a href="https://www.npmjs.com/package/extract-design-system" target="_blank" rel="noopener noreferrer">58K+ weekly downloads</a>                           │
  │   Agents      →  Checkout pinned repos                           │
  │                                                                  │
  ╰──────────────────────────────────────────────────────────────────╯
