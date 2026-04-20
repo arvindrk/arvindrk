@@ -8,7 +8,7 @@
  │   Side Quest  →  <a href="https://ycagent.ai" target="_blank" rel="noopener noreferrer">ycagent.ai</a>                                      │
  │   Agent Skill →  <a href="https://skills.sh/arvindrk/extract-design-system/extract-design-system" target="_blank" rel="noopener noreferrer">29K+ weekly downloads</a>                           │
  │   Agents      →  Checkout pinned repos                           │
- │                                                                  │
+ │                                                                   │
  │   npm package →  <a href="https://www.npmjs.com/package/extract-design-system"><img src="https://img.shields.io/npm/dw/extract-design-system?logo=npm&logoColor=white" alt="npm downloads" /></a>                           │
  │                                                                  │
  │                                                                  │
