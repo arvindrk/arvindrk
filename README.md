@@ -1,7 +1,6 @@
 <pre>
  ╭──────────────────────────────────────────────────────────────────╮
  │                                                                  │
- │   Building Voice AI @ Vapi                                       │
  │                                                                  │
  │   Portfolio   →  <a href="https://arvindrk.com" target="_blank" rel="noopener noreferrer">arvindrk.com</a>                                    │
  │   Ex-Founder  →  <a href="https://asynchretro.com" target="_blank" rel="noopener noreferrer">asynchretro.com</a>                                 │
