@@ -1,15 +1,15 @@
 <pre>
- ╭──────────────────────────────────────────────────────────────────╮
- │                                                                  │
- │                                                                  │
- │   Portfolio   →  <a href="https://arvindrk.com" target="_blank" rel="noopener noreferrer">arvindrk.com</a>                                    │
- │   Ex-Founder  →  <a href="https://asynchretro.com" target="_blank" rel="noopener noreferrer">asynchretro.com</a>                                 │
- │   Side Quest  →  <a href="https://ycagent.ai" target="_blank" rel="noopener noreferrer">ycagent.ai</a>                                      │
- │   Agent Skill →  <a href="https://skills.sh/arvindrk/extract-design-system/extract-design-system" target="_blank" rel="noopener noreferrer">120K+ weekly downloads</a>                          │
- │   My Blog     →  <a href="https://blog.arvindrk.com" target="_blank" rel="noopener noreferrer">blog.arvindrk.com</a>                               │
- │   Agents      →  Checkout pinned repos                           │
- │                                                                  │
- ╰──────────────────────────────────────────────────────────────────╯
+                                                              ╭──────────────────────────────────────────────────────────────────╮
+                                                              │                                                                  │
+                                                              │                                                                  │
+                                                              │   Portfolio   →  <a href="https://arvindrk.com" target="_blank" rel="noopener noreferrer">arvindrk.com</a>                                    │
+                                                              │   Ex-Founder  →  <a href="https://asynchretro.com" target="_blank" rel="noopener noreferrer">asynchretro.com</a>                                 │
+                                                              │   Side Quest  →  <a href="https://ycagent.ai" target="_blank" rel="noopener noreferrer">ycagent.ai</a>                                      │
+                                                              │   Agent Skill →  <a href="https://skills.sh/arvindrk/extract-design-system/extract-design-system" target="_blank" rel="noopener noreferrer">120K+ weekly downloads</a>                          │
+                                                              │   My Blog     →  <a href="https://blog.arvindrk.com" target="_blank" rel="noopener noreferrer">blog.arvindrk.com</a>                               │
+                                                              │   Agents      →  Checkout pinned repos                           │
+                                                              │                                                                  │
+                                                              ╰──────────────────────────────────────────────────────────────────╯
 </pre>
 
 <br>
