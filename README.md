@@ -10,7 +10,7 @@
  │                                                                  │
  │   npm package →  <a href="https://www.npmjs.com/package/extract-design-system"><img src="https://img.shields.io/npm/dw/extract-design-system?logo=npm&logoColor=white" alt="npm downloads" /></a>                           │
  │                                                                  │
- │   My Blog     →  <a href="https://blog.arvindrk.com" target="_blank" rel="noopener noreferrer">blog.arvindrk.com</a>                                │
+ │   My Blog     →  <a href="https://blog.arvindrk.com" target="_blank" rel="noopener noreferrer">blog.arvindrk.com</a>                               │
  │                                                                  │
  ╰──────────────────────────────────────────────────────────────────╯
 </pre>
